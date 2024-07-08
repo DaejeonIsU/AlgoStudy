@@ -8,4 +8,5 @@
 |공통문제|혜진|수민|희병|
 |------|---|---|---|
 |6/24~6/30|[1, 2, 3 더하기 4](https://www.acmicpc.net/problem/15989)|프로그래머스_단어변환|boj_1647|
-|7/1~7/7|-|테스트|[로봇 청소기](https://www.acmicpc.net/problem/4991)|
+|7/1~7/7|-|-|[로봇 청소기](https://www.acmicpc.net/problem/4991)|
+|7/8~7/14|-|-|[어항 정리](https://www.acmicpc.net/problem/23291)|
